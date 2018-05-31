@@ -1,6 +1,7 @@
 # AutoRun-Car
 基于树莓派图像识别的智能循迹避障小车</br>
 作者：三无小组</br>
+视频请点击:https://youtu.be/4E3luEluiFE</br>
 ## 基本需求
 raspberry pi3</br>
 小车模块</br>
