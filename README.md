@@ -9,6 +9,5 @@ raspberry pi3</br>
 ## 环境要求
 树莓派：rasbian系统</br>
 电脑：opencv2.45</br>
-  </br>numpy</br>
- 
+ numpy</br>
 &copy;valext
