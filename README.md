@@ -11,4 +11,7 @@ raspberry pi3</br>
 树莓派：rasbian系统</br>
 电脑：opencv2.45</br>
  numpy</br>
+## 具体教程
+会写的，咕咕~</br>
+毕设结束后就写
 &copy;valext
